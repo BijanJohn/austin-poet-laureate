@@ -1,0 +1,46 @@
+baseURL = "http://example.org/"
+title = "My Site Name"
+paginate = 5
+theme = "PaperMod"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+title = "My Site Name"
+description = "Welcome to my site"
+defaultTheme = "dark"
+disableThemeToggle = true
+
+[params.profileMode]
+enabled = true
+title = "My Site Name"
+subtitle = "Welcome to our space"
+imageUrl = "/images/profile.jpg"
+imageTitle = "site image"
+
+[[params.profileMode.buttons]]
+name = "Posts"
+url = "posts"
+
+[[params.profileMode.buttons]]
+name = "About"
+url = "about"
+
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts/"
+weight = 10
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 20
