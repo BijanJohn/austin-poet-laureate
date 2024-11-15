@@ -1,0 +1,29 @@
+/* Style for right-floating figures */
+.float-right {
+    float: right;
+    margin: 0 0 10px 20px;  /* top right bottom left */
+    width: 300px;
+    height: auto;
+}
+
+/* Style for the image inside the figure */
+.float-right img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;  /* Optional: adds rounded corners */
+}
+
+/* Style specifically for figure shortcode */
+.post-content figure.float-right,
+.entry-content figure.float-right {
+    float: right;
+    margin: 0 0 10px 20px;
+}
+
+/* Clear floats if needed */
+.post-content::after,
+.entry-content::after {
+    content: "";
+    display: table;
+    clear: both;
+}

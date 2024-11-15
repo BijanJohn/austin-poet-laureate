@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
-title = "My Site Name"
+baseURL = "http://austinpoetlaureate.com/"
+title = "Austin Poet Laureate"
 paginate = 5
 theme = "PaperMod"
 
@@ -13,34 +13,63 @@ disableXML = true
 minifyOutput = true
 
 [params]
-title = "My Site Name"
-description = "Welcome to my site"
-defaultTheme = "dark"
+title = "Austin Poet Laureate"
+description = "Application by Bijan Rahnamai"
+defaultTheme = "light"
 disableThemeToggle = true
+defaultContentLanguage = "en"
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
 
 [params.profileMode]
 enabled = true
-title = "My Site Name"
-subtitle = "Welcome to our space"
-imageUrl = "/images/profile.jpg"
-imageTitle = "site image"
+title = "Austin Poet Laureate"
+subtitle = "Application by Bijan Rahnamai"
+imageUrl = "/images/artist-bijan.jpg"
+imageTitle = "Bijan Poet Laureate"
 
 [[params.profileMode.buttons]]
-name = "Posts"
-url = "posts"
+name = "Poems"
+url = "poems"
 
 [[params.profileMode.buttons]]
-name = "About"
-url = "about"
+name = "Bio"
+url = "bio"
+
+[[params.profileMode.buttons]]
+name = "Resume"
+url = "resume"
+
+[[params.profileMode.buttons]]
+name = "Vision"
+url = "vision"
 
 [[menu.main]]
-identifier = "posts"
-name = "Posts"
-url = "/posts/"
-weight = 10
+identifier = "poems"
+name = "Poems"
+url = "/poems/"
+weight = 1
 
 [[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
-weight = 20
+identifier = "bio"
+name = "Bio"
+url = "/bio/"
+weight = 2
+
+[[menu.main]]
+identifier = "resume"
+name = "Resume"
+url = "/resume/"
+weight = 3
+
+[[menu.main]]
+identifier = "vision"
+name = "Vision"
+url = "/vision/"
+weight = 4
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/bijan-rahnamai/"
