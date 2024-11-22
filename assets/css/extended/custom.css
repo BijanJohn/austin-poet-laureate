@@ -27,3 +27,7 @@
     display: table;
     clear: both;
 }
+
+.red-text {
+    color: red;
+}
