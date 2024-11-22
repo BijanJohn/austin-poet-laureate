@@ -31,3 +31,8 @@
 .red-text {
     color: red;
 }
+
+.align-right {
+    text-align: right;
+    direction: rtl;
+}
