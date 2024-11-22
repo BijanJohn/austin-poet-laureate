@@ -8,19 +8,20 @@ As a lifelong Austinite and active poet, I envision a revitalized poetry landsca
 
 
 ## Digital Infrastructure & Documentation:
-- Develop austinpoetryhistory.com and austinopenmic.com to preserve and celebrate Austin's poetic legacy
+- Develop [austinpoetryhistory.com](https://austinpoetryhistory.com/) and [austinopenmic.com](https://austinopenmic.com) to preserve and celebrate Austin's poetic legacy
 - Create digital archives of performances and workshops, ensuring poetry reaches those with mobility challenges or time constraints
 
 ## Educational Outreach:
 - Partner with Title I schools in Austin ISD and Round Rock ISD to develop age-appropriate poetry programs
-- Collaborate with special education programs to make poetry accessible to students with different abilities. Art Spark does great work here and we can extend their audience.
+- Collaborate with special education programs to make poetry accessible to students with different abilities. [Art Spark](https://www.artsparktx.org/) does great work here and we can extend their audience.
 
 ## Cultural Integration & Community Partnerships:
-- Asian American Resource Center: Celebrate Asian-American poetry traditions
-- George Washington Carver Museum: Amplify Black voices and history through verse
-- Puerto Rican Cultural Center: Explore bilingual poetry and Caribbean traditions
-- Austin Baha'i Center: Foster interfaith dialogue through poetry
-- Austin Zen Center: Connect mindfulness practices with poetic expression
+- [Asian American Resource Center](https://www.austintexas.gov/department/asian-american-resource-center): Celebrate Asian-American poetry traditions
+- [Mexic-Arte Museum](https://mexic-artemuseum.org/): Roots of Austin and Mexican art and culture since 1984
+- [George Washington Carver Museum](https://www.austintexas.gov/department/george-washington-carver-museum-cultural-and-genealogy-center): Austin's first library next to genealogy center
+- [Puerto Rican Cultural Center](https://www.prfdance.org/): Explore bilingual poetry and Caribbean traditions
+- [Austin Baha'i Center](https://austinbahai.org/): Foster interfaith dialogue through poetry
+- [Austin Zen Center](https://austinzencenter.org/): Connect mindfulness practices with poetic expression
 
 ## Library Integration:
 - Poetry performances and open mics

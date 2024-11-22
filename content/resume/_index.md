@@ -13,9 +13,8 @@ Austin, TX
   * Coordinated with diverse poetic voices across Texas and internationally
 
 - Independent Poetry Publisher (2024)
-  * Published and distributed 200 poetry books each for Thom the World Poet and personal works
+  * Published and distributed 200 poetry books each for Thom the World Poet (co-founder of Austin International Poetry Festival) and personal works
   * Committed to free distribution to increase poetry accessibility
-  * Collaborated with Thom the World Poet, co-founder of Austin International Poetry Festival
 
 ### CULTURAL & INTERNATIONAL EXPERIENCE
 - Persian Poetry & Cultural Studies

@@ -1,5 +1,5 @@
 ---
-title: "Español - Primera vista a Mexico"
+title: "Español - Primera visita a Mexico"
 date: 2024-11-22
 weight: 2
 ---

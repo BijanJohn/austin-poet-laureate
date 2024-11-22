@@ -1,6 +1,6 @@
 baseURL = "http://austinpoetlaureate.com/"
 title = "Austin Poet Laureate"
-paginate = 5
+paginate = 0
 theme = "PaperMod"
 
 enableRobotsTXT = true
@@ -73,3 +73,7 @@ weight = 4
 [[params.socialIcons]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/bijan-rahnamai/"
+
+[[params.socialIcons]]
+name = "instagram"
+url = "https://www.instagram.com/bijanthelovepoet/"
