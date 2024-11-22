@@ -3,9 +3,7 @@ title: "Love is all that is real"
 date: 2024-11-22
 weight: 3
 ---
-{{< youtube 30nzRhbNOfU >}}
-
-**Need to upload video**
+{{< youtube 8CreT61ipYw >}}
 
 Love is all that is real
 
