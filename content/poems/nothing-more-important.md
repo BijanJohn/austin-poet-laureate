@@ -1,6 +1,6 @@
 ---
 title: "Nothing more important than Life"
-date: 2024-11-20
+date: 2024-09-06
 weight: 6
 ---
 {{< youtube g9XGyYjKl7E >}}

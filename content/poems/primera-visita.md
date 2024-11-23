@@ -1,6 +1,6 @@
 ---
 title: "Español - Primera visita a Mexico"
-date: 2024-11-22
+date: 2024-11-07
 weight: 2
 ---
 {{< youtube 30nzRhbNOfU >}}

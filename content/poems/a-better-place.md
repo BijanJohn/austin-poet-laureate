@@ -1,6 +1,6 @@
 ---
 title: "A Better Place"
-date: 2024-11-11
+date: 2024-11-22
 weight: 9
 ---
 {{< youtube wc1fltTaoxo 307 >}}

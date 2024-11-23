@@ -1,6 +1,6 @@
 ---
 title: "Love is all that is real"
-date: 2024-11-22
+date: 2023-12-16
 weight: 3
 ---
 {{< youtube 8CreT61ipYw >}}

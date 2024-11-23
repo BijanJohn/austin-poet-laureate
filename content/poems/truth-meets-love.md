@@ -1,6 +1,6 @@
 ---
 title: "Truth meets Love"
-date: 2024-11-11
+date: 2024-11-22
 weight: 5
 ---
 {{< youtube AF0ToA-R5Z0 >}}

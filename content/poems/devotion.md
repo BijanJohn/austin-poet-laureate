@@ -1,6 +1,6 @@
 ---
 title: "Devotion"
-date: 2024-11-11
+date: 2023-10-23
 weight: 8
 ---
 {{< youtube wc1fltTaoxo 18 >}}
