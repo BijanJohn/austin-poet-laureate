@@ -5,8 +5,6 @@ weight: 8
 ---
 {{< youtube wc1fltTaoxo 18 >}}
 
-**Finish typing up the lyrics**
-
 I can think, I can wait, I can fast
 
 I can think, I can wait, I can fast
@@ -15,64 +13,83 @@ Do it for the city, for the fam
 
 Do it for the love of poetry, because you can
 
-Do it slowly, (pause) to surrender
+Do it slowly, to surrender
 
-(pause) to remember to relax like Diazepam
+to remember, to relax like Diazepam
 
-a man, has two lives, the 2nd begins,
+a man has two lives, the second begins,
 
-to rise in his eyes like the sun, once he realizes there was only one
+once he realizes there was only one
 
 memento mori, you are mortal and this life will be done
 
 amori fati, love the fate however it's begun
 
-love over hate, above all, a higher principle and power
+love over hate, pens over guns
 
-principled artist, rhythmical rhymes harnessed
+principles and power from the Shogun's tower
 
-the hour is time, worth more than money
+broadcast like the Rogan hour
 
-the sweet present moment, opens your heart honey
+road in on a horse
 
-energy to spark, shine bright light even when it's dark, steady
+from the ruggest streets of by any means except force
 
-Catch him at open mics, ready, opening the likes of young minds with a smile
+writing is magic, the closest thing to kindness
 
-veteran emcees practiced in the art mastery of freestyles
-self therapy he could teach you if you stayed for a while
-play the blues in your own shoes 
-before walking miles in someone else
-discern, learn the difference between riches and wealth of self
+tragic it isn't obvious to you, me and us
+
+mighty and epic concede to trust
+
+the only thing holding it together
+
+is slow and unrushed, gusto and flow
+
+making mushy oatmeal lingo
+
+peppered with walnut sized egos
+
+write destiny, write a better past if it sets you free
+
+writing to get ahead of me
+
+the future is repetitions, habits and dailies
+
+the present moment always opens wide as it can
+
+telling the hour glass, not so fast grains of sand
 
 my hobby is picking books off the shelf
+
 something I picked up in the lobby
+
 rock the mic for calories not fame, celebrity or salaries
+
 health and prosperity are my devotion
 
 ten thousand functions, one suchness, waves in the ocean
 
-you can think, you can wait, you can fast
+he can think, he can wait, he can fast
 
-you can think, you can wait, you can fast
+he can think, he can wait, he can fast
 
-I do it for my city, for my fam
+do it for the city, for the fam
 
-I do it for the love of poetry, because I can
+do it for the love of poetry, because you can
 
-I do it slowly,(pause) to surrender
+do it slowly, to surrender
 
-(pause) to remember who I am
+to remember who I am
 
-I'm native like the cactus, favorite thing to do is practice
+native like the cactus, favorite thing to do is practice
 
-sing the blues, through lit candle poetry hype madness
+sing the blues through lit candle poetry hype madness
 
 Lost children of the masses understand the pain and pathogen
 
 the cost of being the boss, back again, mapping directions
 
-A main has 2 lives, the first ends after he comprehends there was only one
+A main has two lives, the first ends after he comprehends there was only one
 
 my philosophy is the work is never done
 
@@ -96,7 +113,7 @@ Could you spare? an extra courageous act
 
 selfless that's not trying to compare, or keep track
 
-Most of the time, my rhymes roast in the sunshine in the Texas summertime
+Most of the time, these rhymes roast in the sunshine in the Texas summertime
 
 The host who likes to toast at dinner
 
@@ -110,12 +127,12 @@ we can think, we can wait, we can fast
 
 we can think, we can wait, we can fast
 
-I do it for my city, for my fam
+do it for my city, for my fam
 
-I do it for the love of poetry, because I can
+do it for the love of poetry, because we can
 
-I do it slowly, (pause) to remember
+do it slowly, surrender
 
-(pause)  to surrender who I am 
+remember who we are 
 
 freestyle at the end

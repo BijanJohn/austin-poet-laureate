@@ -1,11 +1,8 @@
 ---
-title: "The Brightest bulb in the chandelier"
+title: "The Brightest Bulb in the Chandelier"
 date: 2024-09-26
 weight: 7
 ---
-[{{< youtube g9XGyYjKl7E >}}]: #
-**Need to record a video**
-**Finish editing lyrics**
 
 I want to decorate your mind
 

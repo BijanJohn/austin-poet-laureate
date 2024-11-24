@@ -1,12 +1,9 @@
 ---
 title: "Yesterday's Dreams"
-date: 2024-11-23
+date: 2024-11-24
 weight: 1
 ---
-[{{< youtube g9XGyYjKl7E >}}]: #
-**Need to record a new video**
-
-**Use Austin Library Pictures + good audio**
+{{< youtube 0ojanPIWErM >}}
 
 I dreamed my next job is to build my hometown of Austin
 
